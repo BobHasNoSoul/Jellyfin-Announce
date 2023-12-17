@@ -3,7 +3,8 @@ a simple python script to announce maintenance to all users currently active eve
 
 the notification pops up in the bottom left of the client screen and works on most clients
 
-#instructions
+# instructions
+
 edit the sendit.py and change the options near the top of the file (ip address and api key for the jellyfin install, you can use the domain name if you like but ip address is my go to) save the file after you have made the edits
 
 `sudo chmod +x sendit.py` 
